@@ -7,8 +7,10 @@ Are you tired of typing the same boiler plate code for your Spring Boot web apps
 - You may now generate the archetype 
 
 # Generation
+````
 mvn archetype:generate -DarchetypeGroupId=com.justinmtech.maven-archetypes
                        -DarchetypeArtifactId=spring-boot-3
                        -DarchetypeVersion=1.0
+````
 
 
